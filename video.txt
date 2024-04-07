@@ -1,0 +1,15 @@
+登录到你的GitHub账户。
+
+点击页面右上角的“+”按钮，选择“New repository”（新建仓库）。
+
+在“Repository name”（仓库名称）中输入你的项目名称。
+
+（可选）在“Description”（描述）中输入项目的简短描述。
+
+选择“Public”（公开），如果你想让项目公开可见和操作。
+
+如果你想添加初始化README、.gitignore或LICENSE，可以勾选对应的选项。
+
+点击“Create repository”（创建仓库）按钮。
+
+以下是一个简单的Git命令行示例，用于将本地项目推送到GitHub上的新仓库：
